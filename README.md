@@ -144,6 +144,8 @@ This project is proprietary software.
 All rights reserved © 2026 Bhanu Prakash.
 
 You are NOT allowed to use, copy, modify, or distribute this code without explicit permission.
+
+For licensing requests: bhanu99517@gmail.com
 ---
 
 ## 👨‍💻 Author
